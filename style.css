@@ -1,0 +1,28 @@
+h1 {
+    color: #1abc9c;
+}
+.rem {
+    margin-left: 5px;
+    background-color: white;
+    color: #9999cc;
+    border: none;
+    cursor: pointer;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #9999cc;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+span {
+	display: inline;
+}
